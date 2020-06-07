@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo nano/n
+usermod -u
