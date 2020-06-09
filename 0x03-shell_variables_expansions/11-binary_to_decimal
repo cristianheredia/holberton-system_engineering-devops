@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY=10100111001 $((BINARY#110))
+echo $((2#10100111001))
