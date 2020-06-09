@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'BINARY=2;obase=A;11110001011010'|bc 15450
